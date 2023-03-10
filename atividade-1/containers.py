@@ -1,7 +1,6 @@
 a, b, c = map(int, input().split())
 x, y, z = map(int, input().split())
 
-
 containers_x = x // a
 containers_y = y // b
 containers_z = z // c
